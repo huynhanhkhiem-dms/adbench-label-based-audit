@@ -1,0 +1,7 @@
+sensitivity,n_datasets,excluded,bh_flags,by_flags,bonf_flags,median_delta,positive_delta
+all,47,0,38,33,29,0.108545526517544,43
+exclude_dup_ge_1pct,40,7,33,28,25,0.1169643640624021,38
+exclude_dup_ge_5pct,43,4,36,31,27,0.1149966892898527,41
+exclude_dup_ge_10pct,44,3,37,32,28,0.1169643640624021,42
+exclude_any_recorded_duplicate,30,17,25,21,20,0.1320746508043569,29
+confirmed_zero_duplicates_only,23,24,19,15,15,0.1389367508470715,22

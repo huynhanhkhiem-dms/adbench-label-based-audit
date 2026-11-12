@@ -1,0 +1,25 @@
+{
+  "n_cases": 13,
+  "dimensions": [
+    2,
+    5,
+    10,
+    25,
+    50,
+    100
+  ],
+  "n_range": [
+    300,
+    1500
+  ],
+  "bh_flags": 0,
+  "raw_p_lt_0_05": 0,
+  "median_delta": -0.1303638059701493,
+  "delta_range": [
+    -0.20997721549346438,
+    -0.0132684652808491
+  ],
+  "median_density_auc": 0.9919646444355162,
+  "median_supervised_auc": 0.8640391791044776,
+  "oracle_auc_min": 1.0
+}

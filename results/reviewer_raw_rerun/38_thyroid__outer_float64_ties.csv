@@ -1,0 +1,2 @@
+dataset,selected_density,supervised_model,auc_density_float64,auc_supervised_float64,delta,se,delong_z,one_sided_p,density_duplicate_score_fraction,supervised_duplicate_score_fraction,density_cross_class_tie_pair_fraction,supervised_cross_class_tie_pair_fraction
+38_thyroid,mcd,hgb,0.9850661625708884,0.9990489130434783,0.0139827504725899,0.004686094771736549,2.9838812814723004,0.0014230858992230475,0.025980911983032873,0.6023329798515377,0.0,3.544423440453686e-05

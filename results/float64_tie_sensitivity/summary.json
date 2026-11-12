@@ -1,0 +1,133 @@
+{
+  "n_datasets": 47,
+  "adjusted_flag_counts": {
+    "bh": 38,
+    "by": 33,
+    "bonf": 29
+  },
+  "changed_flags": {
+    "bh": [],
+    "by": [],
+    "bonf": []
+  },
+  "n_cross_ties_dens": 3,
+  "n_cross_ties_sup": 15,
+  "max_abs_auc_diff_dens": 1.1102230246251565e-16,
+  "max_abs_auc_diff_sup": 2.3401885256291166e-06,
+  "trials": [
+    {
+      "seed": 0,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 1,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 2,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 3,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 4,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 5,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 6,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 7,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 8,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 9,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 10,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 11,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 12,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 13,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 14,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 15,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 16,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 17,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 18,
+      "bh_count": 38,
+      "changed_from_primary": []
+    },
+    {
+      "seed": 19,
+      "bh_count": 38,
+      "changed_from_primary": []
+    }
+  ],
+  "environment": {
+    "python": "3.12.14",
+    "system": "Linux",
+    "architecture": "x86_64",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.8.0",
+    "numerical_libraries": [
+      "openblas 0.3.30",
+      "openmp None"
+    ],
+    "threads_per_fit": 1
+  }
+}

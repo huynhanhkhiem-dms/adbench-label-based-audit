@@ -1,0 +1,63 @@
+{
+  "outer_seed_counts": [
+    {
+      "seed": 0,
+      "n_datasets": 47,
+      "bh_flags": 38,
+      "positive_gaps": 43,
+      "median_gap": 0.108545526517544,
+      "changed_from_primary": 0
+    },
+    {
+      "seed": 11,
+      "n_datasets": 47,
+      "bh_flags": 37,
+      "positive_gaps": 42,
+      "median_gap": 0.1161791044776118,
+      "changed_from_primary": 5
+    },
+    {
+      "seed": 23,
+      "n_datasets": 47,
+      "bh_flags": 36,
+      "positive_gaps": 42,
+      "median_gap": 0.1019402985074627,
+      "changed_from_primary": 6
+    },
+    {
+      "seed": 37,
+      "n_datasets": 47,
+      "bh_flags": 35,
+      "positive_gaps": 40,
+      "median_gap": 0.0998797058546637,
+      "changed_from_primary": 5
+    },
+    {
+      "seed": 53,
+      "n_datasets": 47,
+      "bh_flags": 36,
+      "positive_gaps": 44,
+      "median_gap": 0.0773909709159571,
+      "changed_from_primary": 4
+    },
+    {
+      "seed": 71,
+      "n_datasets": 47,
+      "bh_flags": 36,
+      "positive_gaps": 40,
+      "median_gap": 0.1044477611940298,
+      "changed_from_primary": 4
+    }
+  ],
+  "datasets_flagged_at_all_six_seeds": 30,
+  "detector_dataset_pairs": 752,
+  "nonzero_cross_label_ties": 173,
+  "candidate_dataset_pairs": 1244,
+  "min_eligible": 17,
+  "max_eligible": 29,
+  "median_posthoc_gap": 0.00022292005892854405,
+  "mean_posthoc_gap": 0.01823440442834026,
+  "n_posthoc_gap_above_0.05": 5,
+  "max_posthoc_gap_dataset": "3_backdoor",
+  "max_posthoc_gap": 0.2783343919504768
+}

@@ -1,0 +1,9 @@
+{
+  "n_datasets": 47,
+  "max_abs_delta_diff": 0.0003566066066066579,
+  "max_abs_p_diff": 0.0070961808330086695,
+  "primary_bh_flags": 38,
+  "archive_bh_flags": 38,
+  "changed_flags": 0,
+  "max_p_diff_dataset": "4_breastw"
+}

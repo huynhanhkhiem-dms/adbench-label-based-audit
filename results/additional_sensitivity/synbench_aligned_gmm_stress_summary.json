@@ -1,0 +1,12 @@
+{
+  "n_cases": 6,
+  "bh_flags": 1,
+  "raw_p_lt_0_05": 1,
+  "median_delta": 0.01987654320987653,
+  "delta_range": [
+    -0.010370370370370363,
+    0.0528395061728395
+  ],
+  "median_density_auc": 0.971111111111111,
+  "median_supervised_auc": 0.9951851851851852
+}

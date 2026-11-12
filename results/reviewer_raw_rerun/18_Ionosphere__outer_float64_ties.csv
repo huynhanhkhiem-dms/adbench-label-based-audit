@@ -1,0 +1,2 @@
+dataset,selected_density,supervised_model,auc_density_float64,auc_supervised_float64,delta,se,delong_z,one_sided_p,density_duplicate_score_fraction,supervised_duplicate_score_fraction,density_cross_class_tie_pair_fraction,supervised_cross_class_tie_pair_fraction
+18_Ionosphere,mcd,rf,0.9610900407360585,0.9790700941143419,0.017980053378283345,0.013210567754749748,1.3610356278456517,0.08675121531944074,0.005681818181818232,0.045454545454545414,0.0,0.0

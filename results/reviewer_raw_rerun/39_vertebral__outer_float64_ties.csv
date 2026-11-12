@@ -1,0 +1,2 @@
+dataset,selected_density,supervised_model,auc_density_float64,auc_supervised_float64,delta,se,delong_z,one_sided_p,density_duplicate_score_fraction,supervised_duplicate_score_fraction,density_cross_class_tie_pair_fraction,supervised_cross_class_tie_pair_fraction
+39_vertebral,mahalanobis,logit,0.42412698412698413,0.9346031746031747,0.5104761904761905,0.06781807027948757,7.527141193673724,2.5931639869691687e-14,0.0,0.0,0.0,0.0

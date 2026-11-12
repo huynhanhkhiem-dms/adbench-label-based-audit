@@ -1,0 +1,2 @@
+dataset,selected_density,supervised_model,auc_density_float64,auc_supervised_float64,delta,se,delong_z,one_sided_p,density_duplicate_score_fraction,supervised_duplicate_score_fraction,density_cross_class_tie_pair_fraction,supervised_cross_class_tie_pair_fraction
+15_Hepatitis,mahalanobis,rf,0.6323529411764706,0.8676470588235294,0.23529411764705888,0.12920318450887547,1.8211170145802065,0.03429453571319055,0.0,0.025000000000000022,0.0,0.0

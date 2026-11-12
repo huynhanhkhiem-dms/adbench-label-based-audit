@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these materials, cite this software and its accompanying manuscript."
+title: "Auditing Label-Based Evaluation in Unsupervised Anomaly Detection: Reproduction Materials"
+type: software
+repository-code: "https://github.com/huynhanhkhiem-dms/adbench-label-based-audit"
+authors:
+  - family-names: Huynh
+    given-names: Anh Khiem
+    orcid: "https://orcid.org/0009-0007-7210-174X"
+version: "1.0.0"

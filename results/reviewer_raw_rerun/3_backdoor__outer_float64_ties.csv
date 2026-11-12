@@ -1,0 +1,2 @@
+dataset,selected_density,supervised_model,auc_density_float64,auc_supervised_float64,delta,se,delong_z,one_sided_p,density_duplicate_score_fraction,supervised_duplicate_score_fraction,density_cross_class_tie_pair_fraction,supervised_cross_class_tie_pair_fraction
+3_backdoor,gmm_c16,rf,0.6496632589276712,0.9974101687738188,0.34774690984614764,0.028412936780547488,12.239034371280747,9.615344851926002e-35,0.03920000000000001,0.7708,0.0,0.0

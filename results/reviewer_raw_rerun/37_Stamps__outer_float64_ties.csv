@@ -1,0 +1,2 @@
+dataset,selected_density,supervised_model,auc_density_float64,auc_supervised_float64,delta,se,delong_z,one_sided_p,density_duplicate_score_fraction,supervised_duplicate_score_fraction,density_cross_class_tie_pair_fraction,supervised_cross_class_tie_pair_fraction
+37_Stamps,knn_max_k20,logit,0.9126881720430108,0.969462365591398,0.0567741935483872,0.028636684027463978,1.9825687043212816,0.023707813001674665,0.0,0.0,0.0,0.0

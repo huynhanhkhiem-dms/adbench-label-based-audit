@@ -1,0 +1,2 @@
+dataset,selected_density,supervised_model,auc_density_float64,auc_supervised_float64,delta,se,delong_z,one_sided_p,density_duplicate_score_fraction,supervised_duplicate_score_fraction,density_cross_class_tie_pair_fraction,supervised_cross_class_tie_pair_fraction
+5_campaign,mahalanobis,rf,0.7602162463155981,0.9419058950829673,0.18168964876736915,0.006988237308286753,25.999353020241447,2.5181285876105293e-149,9.999999999998899e-05,0.01649999999999996,0.0,1.0007882208027042e-07

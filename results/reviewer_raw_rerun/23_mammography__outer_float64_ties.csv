@@ -1,0 +1,2 @@
+dataset,selected_density,supervised_model,auc_density_float64,auc_supervised_float64,delta,se,delong_z,one_sided_p,density_duplicate_score_fraction,supervised_duplicate_score_fraction,density_cross_class_tie_pair_fraction,supervised_cross_class_tie_pair_fraction
+23_mammography,kde_bw4.0,rf,0.8937533447877645,0.9431329746781961,0.04937962989043165,0.013058168689794019,3.7815126350010857,7.793915445216208e-05,0.3095493562231759,0.8167024320457796,0.007296566487339098,0.01508323240289553

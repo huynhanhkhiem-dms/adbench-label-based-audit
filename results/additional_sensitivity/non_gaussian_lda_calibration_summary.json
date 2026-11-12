@@ -1,0 +1,23 @@
+{
+  "n_cases": 9,
+  "families": [
+    "banana",
+    "gmm",
+    "student_t"
+  ],
+  "dimensions": [
+    2,
+    5,
+    10
+  ],
+  "bh_flags": 0,
+  "raw_p_lt_0_05": 0,
+  "median_delta": -0.038783482142857206,
+  "delta_range": [
+    -0.07971752131314402,
+    -0.0023687423687424047
+  ],
+  "median_density_auc": 0.9945047203043539,
+  "median_supervised_auc": 0.9502855829831932,
+  "oracle_auc_min": 1.0
+}
